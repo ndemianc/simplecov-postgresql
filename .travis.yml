@@ -1,0 +1,9 @@
+script:
+  - bundle
+rvm:
+  - ree
+  - 1.9.3
+  - 2.3.1
+  - 2.5.0
+  - rbx-19mode
+  - jruby-19mode
